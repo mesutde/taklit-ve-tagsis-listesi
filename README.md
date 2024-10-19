@@ -16,4 +16,8 @@ https://guvenilirgida.tarimorman.gov.tr/gkd
 ![image](https://github.com/user-attachments/assets/4f14c255-0a17-4139-a893-09ed138339c2)
 
 
+
+![image](https://github.com/user-attachments/assets/79ffe5b3-039e-409a-992c-022b28251c1c)
+
+
 # Liste Bakanlığın Yayınladığı Günlük listedir. Sorumluluk kabul edilmez. 
