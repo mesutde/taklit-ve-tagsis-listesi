@@ -13,7 +13,8 @@ Sağlığı Tehlikeye Düşürecek Gıdalar
 Kişilerin hayatını ve sağlığını tehlikeye düşürecek şekilde bozulmuş, değiştirilmiş ürünlere ait bilgiler aşağıda yer almaktadır.
 Örneğin : Tekstil boyasının gıdada kullanılması, gıdaya ilaç etken maddesi katılması vb.
 
-![image](https://github.com/user-attachments/assets/79ffe5b3-039e-409a-992c-022b28251c1c)
+
+![image](https://github.com/user-attachments/assets/e4121330-7b82-457a-b59b-9e83f1b2d824)
 
 
 # Güncel Listeye Buradan Ulaşabilirsiniz.
