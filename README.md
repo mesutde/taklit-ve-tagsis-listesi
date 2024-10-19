@@ -1,6 +1,6 @@
 # taklit-ve-tagsis-listesi
 
-![image](https://github.com/user-attachments/assets/79ffe5b3-039e-409a-992c-022b28251c1c)
+
 
 
 Tarım ve Orman Bakanlığı tarafından günlük olarak güncellenen taklit ve tağşiş listesi JSON formatında
@@ -12,6 +12,8 @@ Taklit veya tağşiş yapıldığı kesinleşmiş ürünlere ait bilgiler aşağ
 Sağlığı Tehlikeye Düşürecek Gıdalar
 Kişilerin hayatını ve sağlığını tehlikeye düşürecek şekilde bozulmuş, değiştirilmiş ürünlere ait bilgiler aşağıda yer almaktadır.
 Örneğin : Tekstil boyasının gıdada kullanılması, gıdaya ilaç etken maddesi katılması vb.
+
+![image](https://github.com/user-attachments/assets/79ffe5b3-039e-409a-992c-022b28251c1c)
 
 
 # Güncel Listeye Buradan Ulaşabilirsiniz.
