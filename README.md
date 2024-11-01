@@ -14,7 +14,7 @@ Kişilerin hayatını ve sağlığını tehlikeye düşürecek şekilde bozulmu�
 Örneğin : Tekstil boyasının gıdada kullanılması, gıdaya ilaç etken maddesi katılması vb.
 
 
-![image](https://github.com/user-attachments/assets/e4121330-7b82-457a-b59b-9e83f1b2d824)
+![image](https://github.com/user-attachments/assets/78a8e041-e386-4c78-a0b3-d248442c4210)
 
 
 # Güncel Listeye Buradan Ulaşabilirsiniz.
